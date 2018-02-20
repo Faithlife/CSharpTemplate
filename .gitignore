@@ -9,6 +9,7 @@ tools/
 
 # ignore user-specific options/cache files
 .vs/
+.vscode/
 Thumbs.db
 *.cache
 *.user
